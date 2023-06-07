@@ -36,9 +36,7 @@ The source code for the hydrology-driven machine learning model is found within 
 - Install the necessary Python libraries using the command: `pip install -r requirements.txt`.
 
 ### Steps
-1. Clone
-
- this repository to your local system.
+1. Clone this repository to your local system.
 2. Run the scripts.
 
 ### Notes
